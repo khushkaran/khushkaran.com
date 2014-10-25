@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2013-01-11
+img: initnem.png
+alt: image-alt
+project-date: January 2013
+client: Personal Project
+category: iOS Development
+description: iNitnem is an iOS app that allows users to read and listen to Sikh Prayers. Click <a href="http://itunes.apple.com/app/id585671164">here</a> for the iPhone version in the app store or the <a href="http://itunes.apple.com/app/id590436352">iPad</a>.
+---
