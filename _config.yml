@@ -18,10 +18,8 @@ social:
     url: http://github.com/khushkaran
   - title: bitbucket 
     url: http://bitbucket.org/khushkaran
-  - title: linkedin
-    url: http://linkedin.com/in/khushkaran
-  #- title: stack-overflow
-  #  url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: stack-overflow
+    url: http://stackoverflow.com/users/1284916/khushkaran-singh
 
 # Postal address (add as many lines as necessary)
 address:
