@@ -2,7 +2,7 @@
 title: Khushkaran Singh Bajwa
 short_title: K S Bajwa
 email: khushkaran@users.noreply.github.com
-description: "My name is Khushkaran, I am a Software Engineer at Causeway Technologies in Leamington Spa."
+description: "My name is Khushkaran, I am a Software Engineer at OLM Systems in Derby."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -19,12 +19,11 @@ social:
   - title: bitbucket 
     url: http://bitbucket.org/khushkaran
   - title: stack-overflow
-    url: http://stackoverflow.com/users/1284916/khushkaran-singh
+    url: http://stackoverflow.com/story/khushkaran
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Working in Leamington Spa, England
-  - line: Living in Derby, England.
+  - line: Working & living in Derby, England.
 
 # Build settings
 markdown: kramdown
